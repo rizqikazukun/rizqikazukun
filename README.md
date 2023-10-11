@@ -1,10 +1,10 @@
 ```js
 const Greeting = {
     name: "Rizqi Pratama",
-    role: "Backend Developer",
+    role: ["Backend Developer", "Fullstack Developer"],
     lang: "Javascript",
     hello: function () {
-        return `Hello my name is ${this.name}. I'am ${this.role} using ${this.lang}.`
+        return `Hello my name is ${this.name}. I'am ${this.role[0]} using ${this.lang}.`
     }
 }
 
