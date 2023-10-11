@@ -11,8 +11,8 @@ const Greeting = {
 console.log(Greeting.hello())
 ```
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizqikazukun&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqikazukun&hide_progress=false&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=rizqikazukun&hide_rank=true&hide_border=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqikazukun&hide_progress=false&hide_border=true&layout=compact)
 
 
 
