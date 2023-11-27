@@ -1,3 +1,4 @@
+```javascript
 const Greeting = {
 	name: 'Rizqi Pratama',
 	role: ['Backend', 'Fullstack'],
@@ -14,4 +15,4 @@ Greeting.hello()
 // Hello, I Am Rizqi Pratama, I Am a Backend Developer 
 // or
 // Hello, I Am Rizqi Pratama, I Am a Fullstack Developer 
-
+```
